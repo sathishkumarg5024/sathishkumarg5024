@@ -5,7 +5,7 @@
 
 ## <div align="center">ML Enthusiast | Data Science | Web Development | CSE'25 PESU</div><br>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently pursuing B.Tech in Computer Science at [PES University] (https://pes.edu/)
 
 - 🌱 I’m currently learning Data Science and Web Dev
 
