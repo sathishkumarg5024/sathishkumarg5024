@@ -3,7 +3,7 @@
 </div>  
 
 
-## <div align="center">ML Enthusiast | Data Science | Web Development | CSE'25 PESU</div><br>
+## <div align="center"> Web Development | CSE'25 PESU</div><br>
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science at [PES University](https://pes.edu/)
 
